@@ -50,20 +50,7 @@ Installation
 
    The app will be available at: http://127.0.0.1:8000
 
--------------------------
-Project Structure
--------------------------
-
-TodoApp/
-├── alembic/               - Alembic migrations
-├── routers/               - API route handlers
-├── test/                  - Unit tests
-├── main.py                - App entry point
-├── models.py              - SQLAlchemy models
-├── database.py            - DB connection setup
-├── requirements.txt
-└── alembic.ini
-
+   
 -------------------------
 Running Tests
 -------------------------
